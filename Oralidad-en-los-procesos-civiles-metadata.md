@@ -31,7 +31,7 @@ Recursos disponibles
 
 -   **Nombre:** oralidad-procesos-civiles.csv
 
--   **Descripción del contenido:** se detallan las audiencias de oralidad en procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires. Por el momento, no todas las provincias se incorporaron a este sistema
+-   **Descripción del contenido:** se detallan las audiencias de oralidad en procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
