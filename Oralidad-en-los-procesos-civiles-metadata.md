@@ -1,7 +1,7 @@
 Oralidad en los procesos civiles
 ================================
 
-En este conjunto de datos se detallan los procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires, que tramitan mediante la oralidad efectiva, detallándose fechas de los procesos tales como el inicio y fin y la forma de resolución, fechas de las audiencias celebradas y  sus resultados
+En este conjunto de datos se detallan los procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires, que tramitan mediante la oralidad efectiva, detallándose fechas de los procesos tales como el inicio y fin y la forma de resolución, fechas de las audiencias celebradas y  sus resultados.
 
 A fin de contextualizar el proyecto de generalización de la oralidad civil en la provincia de Buenos Aires, se acompaña el estado de situación actual de la generalización de la oralidad civil y comercial en la República Argentina impulsada por el Ministerio de Justicia y Derechos Humanos de la Nación, de acuerdo a los objetivos de la Estrategia Nacional de Reforma de la Justicia Civil, Res 829/17 MJyDH.
 
