@@ -3,7 +3,7 @@ Oralidad en los procesos civiles
 
 En este conjunto de datos se detallan los procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires, que tramitan mediante la oralidad efectiva, detallándose fechas de los procesos tales como el inicio y fin y la forma de resolución, fechas de las audiencias celebradas y sus resultados. 
 
-El proyecto en la provincia de Buenos Aires inició fijándose audiencias preliminares desde agosto de 2016 y a octubre 2018 cuenta con 107 jueces implementando el proceso por audiencias. La generalización de la oralidad civil efectiva en la República Argentina es impulsada por el Ministerio de Justicia y Derechos Humanos de la Nación, de acuerdo a los objetivos de la Estrategia Nacional de Reforma de la Justicia Civil, Res 829/17 MJyDH
+El proyecto en la provincia de Buenos Aires inició fijándose audiencias preliminares desde agosto de 2016 y a octubre 2018 cuenta con 107 jueces implementando el proceso por audiencias. La generalización de la oralidad civil efectiva en la República Argentina es impulsada por el Ministerio de Justicia y Derechos Humanos de la Nación, de acuerdo a los objetivos de la Estrategia Nacional de Reforma de la Justicia Civil, Res 829/17 MJyDH.
 
 http://datos.jus.gob.ar/dataset/oralidad-en-los-procesos-civiles
 
