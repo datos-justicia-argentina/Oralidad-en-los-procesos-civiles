@@ -1,7 +1,7 @@
 Oralidad en los procesos civiles
 ================================
 
-En este conjunto de datos se detallan las audiencias de oralidad en procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires.
+En este conjunto de datos se detallan los procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires, que tramitan mediante la oralidad efectiva, detallándose fechas de los procesos tales como el inicio y fin y la forma de resolución, fechas de las audiencias celebradas y  sus resultados
 
 A fin de contextualizar el proyecto de generalización de la oralidad civil en la provincia de Buenos Aires, se acompaña el estado de situación actual de la generalización de la oralidad civil y comercial en la República Argentina impulsada por el Ministerio de Justicia y Derechos Humanos de la Nación, de acuerdo a los objetivos de la Estrategia Nacional de Reforma de la Justicia Civil, Res 829/17 MJyDH.
 
@@ -12,7 +12,7 @@ Características
 
 -   **Fecha de Primera Publicación:**
 
--   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación
+-   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Programa Justicia 2020
 
@@ -35,7 +35,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** audiencias fijadas desde el mes de agosto de 2016 según provincia hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** audiencias fijadas desde el mes de agosto de 2016 en los juzgados adheridos a la oralidad civil en la Provincia de Buenos Aires según provincia hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -60,7 +60,7 @@ Recursos disponibles
 -   **audiencia_preliminar_resultado (string):** resultado de la audiencia preliminar. Puede tomar los valores:
 
     -    Concilió en audiencia
-    
+        
     -    Concilió previamente
 
     -   Frustrada
