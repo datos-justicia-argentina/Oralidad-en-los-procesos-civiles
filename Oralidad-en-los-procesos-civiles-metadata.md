@@ -10,7 +10,7 @@ http://datos.jus.gob.ar/dataset/oralidad-en-los-procesos-civiles
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 18/10/2018
 
 -   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil
 
