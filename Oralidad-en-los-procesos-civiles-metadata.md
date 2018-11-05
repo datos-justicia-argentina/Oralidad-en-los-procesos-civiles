@@ -95,6 +95,8 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 [Resolución N° 1904/12](http://www.scba.gov.ar/oralidad/pdfs/RC_1904-12.pdf)
 
 [Resolución Nº 829/17 MJyDH](http://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285767/norma.htm)
