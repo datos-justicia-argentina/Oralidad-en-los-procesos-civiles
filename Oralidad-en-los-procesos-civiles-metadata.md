@@ -39,7 +39,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (int):** código de provincia del juzgado que lleva la causa, según la codificación implementada por INDEC
+-   **provincia_id (string):** código de provincia del juzgado que lleva la causa, según la codificación implementada por INDEC
 
 -   **provincia_nombre (string):** nombre de provincia en la que se encuentra el juzgado que lleva la causa
 
