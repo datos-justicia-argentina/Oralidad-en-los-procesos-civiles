@@ -27,9 +27,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Oralidad en los procesos civiles
+### Oralidad en los procesos civiles - Buenos Aires
 
--   **Nombre:** oralidad-procesos-civiles.csv
+-   **Nombre:** oralidad-procesos-civiles-buenos-aires.csv
 
 -   **Descripción del contenido:** se detallan las audiencias de oralidad en procesos de conocimiento civiles y comerciales de la Provincia de Buenos Aires.
 
@@ -92,6 +92,77 @@ Recursos disponibles
 -   **proceso_resultado_descripcion (string):** descripción del resultado del proceso
 
 -   **clase_proceso_descripcion (string):** tipo de proceso con el que tramita la causa
+
+### Oralidad en los procesos civiles - Santa - Fe
+
+-   **Nombre:** oralidad-procesos-civiles-santa-fe.csv
+
+-   **Descripción del contenido:** se detallan las audiencias de oralidad en procesos de conocimiento civiles y comerciales de la Provincia de Santa Fe.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** audiencias fijadas en los juzgados adheridos a la oralidad civil en la Provincia de Santa Fe según provincia hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **provincia_id (string):** código de provincia del juzgado que lleva la causa, según la codificación implementada por INDEC
+
+-   **provincia_nombre (string):** nombre de provincia en la que se encuentra el juzgado que lleva la causa
+
+-   **localidad_nombre (string):** localidad en la que se encuentra el juzgado que lleva la causa
+
+-   **juzgado_nombre (string):** nombre del juzgado en el que se encuentra la causa
+
+-   **juzgado_numero (int):** número de juzgado en el que se encuentra la causa
+
+-   **juzgado_tipo (int):** categoría que define a los juzgados según las competencias determinadas en la ley orgánica provincial
+
+-   **causa_id (string):** código que identifica la causa
+
+-   **causa_objeto_litigio_descripcion (string):** objeto por el cual se da inicio a la causa
+
+-   **causa_fecha_recepcion (date):** fecha en que se inicia la causa. Tiene el formato AAAA-MM-DD
+
+-   **causa_fecha_ingreso (date):** fecha en que la causa ingresa al juzgado. Tiene el formato AAAA-MM-DD
+
+-   **audiencia_preliminar_fecha (date):** fecha que se fija para la audiencia preliminar. Tiene el formato AAAA-MM-DD
+
+-   **audiencia_preliminar_resultado (string):** resultado de la audiencia preliminar. Puede tomar los valores:
+
+    -   Resultado aud. prov. pruebas - Concilió en audiencia
+        
+    -   Resultado aud. prov. pruebas - Concilió previamente
+
+    -   Resultado aud. prov. pruebas - No concilióoncilió
+    
+    -   Resultado aud. prov. pruebas - No se celebró
+    
+    -   Resultado audiencia de proveído a cuarto intermedio
+ 
+-   **apertura_prueba_fecha (date):** fecha de la resolución de apertura prueba. Tiene el formato AAAA-MM-DD
+
+-   **audiencia_vista_causa_fecha (date):** fecha que se fija para la audiencia de vista de causa. Tiene el formato AAAA-MM-DD
+
+-   **audiencia_vista_causa_resultado (string):** resultado de la audiencia vista causa. Puede tomar los valores:
+
+    -   Resultado aud. prov. pruebas - Concilió en audiencia
+        
+    -   Resultado aud. prov. pruebas - Concilió previamente
+
+    -   Resultado aud. prov. pruebas - No concilióoncilió
+    
+    -   Resultado aud. prov. pruebas - No se celebró
+    
+    -   Resultado audiencia de proveído a cuarto intermedio
+
+-   **llamamiento_autos_fecha (date):** fecha de la resolución de llamamiento autos a sentencia. Tiene el formato AAAA-MM-DD
+
+-   **proceso_finalización_fecha (date):** fecha en que finaliza el proceso. Tiene el formato AAAA-MM-DD
+
+-   **proceso_resultado_descripcion (string):** descripción del resultado del proceso
+
+-   **clase_proceso_descripcion (string):** tipo de proceso con el que tramita la causa
+
 
 ### Notas
 
