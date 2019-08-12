@@ -45,7 +45,7 @@ Recursos disponibles
 
 -   **localidad_nombre (string):** localidad en la que se encuentra el juzgado que lleva la causa
 
--   **juzgado_numero (int):** número de juzgado en el que se encuentra la causa
+-   **juzgado_numero (int):** número de juzgado en el que se encuentra la causa. Cuando toma el valor 0 significa que se trata de un juzgado de paz
 
 -   **causa_id (string):** código que identifica la causa
 
