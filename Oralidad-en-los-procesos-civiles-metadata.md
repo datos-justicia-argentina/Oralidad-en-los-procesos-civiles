@@ -59,33 +59,13 @@ Recursos disponibles
 
 -   **audiencia_preliminar_fecha (date):** fecha que se fija para la audiencia preliminar. Tiene el formato AAAA-MM-DD
 
--   **audiencia_preliminar_resultado (string):** resultado de la audiencia preliminar. Puede tomar los valores:
+-   **audiencia_preliminar_resultado (string):** resultado de la audiencia preliminar. Indica si se concilió o no en audiencia, o si la audiencia fue suspendida o frustrada
 
-    -   Concilió en audiencia
-        
-    -   Concilió previamente
-
-    -   Frustrada
-    
-    -   Suspendida
-    
-    -   No concilió
- 
 -   **apertura_prueba_fecha (date):** fecha de la resolución de apertura prueba. Tiene el formato AAAA-MM-DD
 
 -   **audiencia_vista_causa_fecha (date):** fecha que se fija para la audiencia de vista de causa. Tiene el formato AAAA-MM-DD
 
--   **audiencia_vista_causa_resultado (string):** resultado de la audiencia vista causa. Puede tomar los valores:
-
-    -   Concilió en audiencia
-        
-    -   Concilió previamente
-
-    -   Frustrada
-    
-    -   Suspendida
-    
-    -   No concilió
+-   **audiencia_vista_causa_resultado (string):** resultado de la audiencia vista causa. Indica si se concilió o no en audiencia, o si la audiencia fue suspendida o frustrada
 
 -   **llamamiento_autos_fecha (date):** fecha de la resolución de llamamiento autos a sentencia. Tiene el formato AAAA-MM-DD
 
