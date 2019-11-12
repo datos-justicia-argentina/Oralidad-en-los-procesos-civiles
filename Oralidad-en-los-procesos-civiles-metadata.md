@@ -12,7 +12,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 18/10/2018
 
--   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil, Buenos Aires, Santa Fe, Entre Ríos, Santiago del Estero
+-   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil, Buenos Aires, Santa Fe, Entre Ríos, Santiago del Estero, Córdoba
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Programa Justicia 2020
 
