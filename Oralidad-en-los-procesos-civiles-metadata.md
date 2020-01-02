@@ -74,6 +74,35 @@ Recursos disponibles
 
 -   **clase_proceso_descripcion (string):** tipo de proceso con el que tramita la causa
 
+### Oralidad en los procesos civiles - encuestas de satisfacción
+
+-   **Nombre:** oralidad-procesos-civiles-encuestas-satisfaccion.csv
+
+-   **Descripción del contenido:** se detallan las respuestas a las encuestas realizadas a usuarios o abogados, luego de su participación en audiencias, tanto preliminar o de vista de causa.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** varía por provincia
+
+### Campos del recurso
+
+-   **provincia_id (string):** código de provincia del juzgado que lleva la causa, según la codificación implementada por INDEC
+
+-   **provincia_nombre (string):** nombre de provincia en la que se encuentra el juzgado que lleva la causa
+
+-   **jurisdiccion_nombre (string):** jurisdicción en la que se encuentra el juzgado que lleva la causa
+
+-   **juzgado_numero (int):** juzgado en el que se encuentra la causa
+
+-   **persona_tipo (string):** persona que responde la encuesta. Puede tomar valores “abogado” o “usuario”, entendiéndose estos últimos como todos los participantes en las audiencias que no son abogados (usuarios finales, testigos, peritos, etc.)
+
+-   **audiencia_tipo (string):** audiencia sobre la cual se responde la encuesta. Puede tomar los valores “audiencia preliminar” (incluye audiencia inicial, audiencia de proveído de prueba) o “audiencia vista de causa” (incluye audiencia final, audiencia de prueba, audiencia de producción de prueba o audiencia complementaria)
+
+-   **encuesta_pregunta (string):** pregunta que responde la persona
+
+-   **encuesta_respuesta (string):** tipo de respuesta dada por la persona a la pregunta de la encuesta. Puede tomar los valores “muy bien”, “bien”, “regular”, “mal” o “NS/NC”
+
+-   **cantidad (string):** cantidad de respuestas dadas a la pregunta
 
 ### Notas
 
