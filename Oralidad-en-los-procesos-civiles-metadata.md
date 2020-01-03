@@ -108,7 +108,7 @@ Recursos disponibles
 
 -   **Nombre:** oralidad-procesos-civiles.zip
 
--   **Descripción del contenido:** se detallan los procesos de conocimiento civiles y comerciales de las provincias que a partir de diciembre de 2018 tramitan por audiencias, detallándose juzgado, fecha de inicio y fin, forma de resolución, fechas de las audiencias celebradas y sus resultados.
+-   **Descripción del contenido:** se detallan los procesos de conocimiento civiles y comerciales de las provincias que tramitan por audiencias, detallándose juzgado, fecha de inicio y fin, forma de resolución, fechas de las audiencias celebradas y sus resultados.
 
 -   **Formato:** ZIP
 
