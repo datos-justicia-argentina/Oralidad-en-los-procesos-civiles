@@ -12,7 +12,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 18/10/2018
 
--   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil, Buenos Aires, Chaco, Corrientes, Córdoba, Entre Ríos, San Juan, Santa Fe, Santiago del Estero, Tucumán, Chubut, encuestas
+-   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil, Buenos Aires, Chaco, Corrientes, Córdoba, Entre Ríos, San Juan, Santa Fe, Santiago del Estero, Tucumán, Chubut, Tierra del Fuego, encuestas
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Programa Justicia 2020
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Programa Justicia 2020
@@ -103,6 +103,14 @@ Recursos disponibles
 -   **encuesta_respuesta (string):** tipo de respuesta dada por la persona a la pregunta de la encuesta. Puede tomar los valores “muy bien”, “bien”, “regular”, “mal” o “NS/NC”
 
 -   **cantidad (string):** cantidad de respuestas dadas a la pregunta
+
+### Oralidad en los procesos civiles
+
+-   **Nombre:** oralidad-procesos-civiles.zip
+
+-   **Descripción del contenido:** se detallan los procesos de conocimiento civiles y comerciales de las provincias que a partir de diciembre de 2018 tramitan por audiencias, detallándose juzgado, fecha de inicio y fin, forma de resolución, fechas de las audiencias celebradas y sus resultados.
+
+-   **Formato:** ZIP
 
 ### Notas
 
