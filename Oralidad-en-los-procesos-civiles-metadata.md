@@ -12,7 +12,8 @@ Características
 
 -   **Fecha de Primera Publicación:** 18/10/2018
 
--   **Tags o Etiquetas:** causas, audiencias, oralidad, procesos civiles, procesos orales, juzgados, conciliación, procesos por audiencias, oralidad civil, Buenos Aires, Chaco, Corrientes, Córdoba, Entre Ríos, San Juan, Santa Fe, Santiago del Estero, Tucumán, Chubut, Tierra del Fuego, encuestas
+-   **Tags o Etiquetas:** audiencias, causas, conciliación, encuestas, juzgados, oralidad, oralidad civil, procesos civiles, procesos orales, procesos por audiencias
+  
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Programa Justicia 2020
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Programa Justicia 2020
